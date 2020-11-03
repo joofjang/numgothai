@@ -17,4 +17,4 @@ func main() {
 }
 ```
 
-[Go Test and Build](https://github.com/joofjang/numgothai/workflows/Go/badge.svg)
+![Go Test and Build](https://github.com/joofjang/numgothai/workflows/Go%20Test/badge.svg)
